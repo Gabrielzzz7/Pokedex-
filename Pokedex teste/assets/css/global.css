@@ -1,0 +1,74 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #bdc1c8;
+}
+
+.content {
+  padding: 1rem;
+  list-style: none;
+}
+
+.centro {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.geral {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.geral .number {
+  color: #000;
+  opacity: .3;
+  text-align: right;
+  font-size: .625rem;
+}
+
+.geral .nome {
+  color: #fff;
+  margin-bottom: 0.25rem;
+  font-size: 18px;
+}
+
+.geral .nomeMenor {
+  color: #fff;
+  margin-bottom: 0.25rem;
+  font-size: 10px;
+  padding: 6px;
+}
+
+.geral .alinhamento {
+  display: flex;
+  flex-direction: column;
+}
+
+.geral .alinhamentoAlola {
+  display: flex;
+  flex-direction: row;
+}
+
+.geral img {
+  max-width: 100%;
+  height: 60px;
+  width: 65px;
+}
+
+.geral .type {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  max-width: 70%;
+  text-align: center;
+  margin-left: -5px;
+  margin-right: 10px;
+}

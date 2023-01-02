@@ -1,0 +1,307 @@
+.pokemomPlanta {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #49d086;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomFogo {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #fc6c6d;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomAgua {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #71b8fb;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomAguaPsiquico {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #d865ac 10%, #71b8fb);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomInseto {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #008000;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomPsiquico {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #d865ac;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomVoadorInseto {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #008000, #800080);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomInsetoVenenoso {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #008000, #ffd700);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomInsetoVeneno {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #008000, #800080);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomDragao {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #825bde;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomPlantaVeneno {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #49d086 55%, #800080);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomNormal {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #9a6a3e;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomVeneno {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #800080;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomTrovao {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #ebbe0b;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomTrovaoLuta {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #ebbe0b, #c03028);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomPsiquicoPlanta {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #49d086, #d865ac);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomTerrestre {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #8c7943;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomFada {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #ffc0cb;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomDark {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #1d1b1b;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomLuta {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #c03028;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomPedra {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #cfb022;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomAço {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #c1cdc1;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomFantasma {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #a292bc;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomTrovaoAço {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #c1cdc1 30%, #ebbe0b);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomIceSteel {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #20baba 30%, #c1cdc1);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomTrovaoPsy {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #ebbe0b 40%, #f85888);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomTrovaoPsy {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #20baba, #f85888);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomIcePsiquico {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #20baba, #f85888);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomIce {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #20baba;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+
+.pokemomAzul {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #98d8d8;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomAzulEscuro {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background-color: #328aaf;
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomAzulEscuroVeneno {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #328aaf 55%, #800080);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+
+.pokemomNormalDark {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #1d1b1b 60%, #9a6a3e);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}
+
+.pokemomRosaNormal {
+  margin: 0.5rem;
+  padding: 12px 17px;
+  background: linear-gradient(to right, #cf41b3 30%, #9a6a3e);
+  border-radius: 1rem;
+  width: 170px;
+  height: 120px;
+}

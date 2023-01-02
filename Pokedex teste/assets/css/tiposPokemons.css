@@ -1,0 +1,151 @@
+.geral .type .poison {
+  background-color: #a040a0;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+  align-items: center;
+}
+
+.geral .type .grass {
+  background-color: #61e1ca;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.detail {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.geral .type .fire {
+  background-color: #f08030;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .fly {
+  background-color: #a890f0;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .water {
+  background-color: #6890f0;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .bug {
+  background-color: #a8b820;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .normal {
+  background-color: #a8a878;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .dark {
+  background-color: #000;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .eletric {
+  background-color: #f8d030;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .psychic {
+  background-color: #f85888;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .ground {
+  background-color: #e0c068;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .ice {
+  background-color: #98d8d8;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .steel {
+  background-color: #b8b8d0;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .fairy {
+  background-color: #ee99ac;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .fight {
+  background-color: #d67873;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .rock {
+  background-color: #b8a038;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .ghost {
+  background-color: #705898;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
+
+.geral .type .dragon {
+  background-color: #7038f8;
+  padding: .25rem .5rem;
+  margin: .25rem 0px;
+  font-size: .625rem;
+  border-radius: 1rem;
+}
